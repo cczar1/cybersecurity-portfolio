@@ -1,6 +1,6 @@
 ![Banner](images/flower-banner.jpeg)
 
-# Hello! I'm Catherine
+# Hello! I'm Catherine.
 
 ## About Me
 
