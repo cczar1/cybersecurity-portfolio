@@ -1,4 +1,4 @@
-![Banner](images/flower-banner.jpeg)
+![Banner](images/flower-banner-2.png)
 
 # Hello! I'm Catherine.
 
