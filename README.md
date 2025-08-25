@@ -6,7 +6,7 @@
 
 ### [💼 My LinkedIn](https://www.linkedin.com/in/03271111/)
 
-<p> As a Contracts Administrator with experience in secure, compliance-driven operations, I am currently seeking to transition into a Security Operations Center (SOC) analyst position. My experience managing risk-sensitive agreements and supporting audit readiness has given me a solid foundation in secure operations and policy adherence. </p>
+<p> Experienced Contracts Administrator with a strong background in operational processes and compliance within secure, regulated environments. Currently seeking to transition into a cybersecurity role, drawing on a versatile professional foundation. </p>
 
 <p> This background, as well as my recent CompTIA Security+ certification, complements my current study of cybersecurity frameworks such as NIST and ISO 27001. To gain practical experience, I developed a home lab which has allowed me to simulate security incidents and work with SIEM, EDR, log analysis, and threat detection tools. </p>
 
@@ -14,10 +14,17 @@
 
 <p>Welcome to my Cybersecurity Portfolio! This repository showcases projects I’ve built to develop practical skills in cybersecurity, including automation, threat analysis, and lab experiments. Each project is designed to demonstrate hands-on experience and a commitment to learning real-world security workflows.</p>
 
-### Portfolio Structure
+## 📂 Portfolio Structure
 
-| Script                   | Description                                                     | Language   |
-| ------------------------ | --------------------------------------------------------------- | ---------- |
-| failed_login_finder.py   | Parses Windows Event Logs for failed logins, outputs CSV report | Python     |
-| ip_reputation_checker.py | Queries VirusTotal API for IP reputation scoring                | Python     |
-| log_archive.ps1          | Automates collection and archiving of system logs               | PowerShell |
+| Category       | Project/Folder                                                    | Contents / Highlights                              |
+| -------------- | ----------------------------------------------------------------- | -------------------------------------------------- |
+| **SIEM**       | [Splunk-Alerting](./SIEM/Splunk-Alerting)                         | README, queries, dashboards, alert screenshots     |
+|                | [Wazuh-Detection](./SIEM/Wazuh-Detection)                         | README, config snippets, screenshots               |
+| **IT Support** | [AD-Troubleshooting](./IT-Support/AD-Troubleshooting)             | Steps, screenshots, notes on Active Directory      |
+|                | [Network-Diagnostics](./IT-Support/Network-Diagnostics)           | Common troubleshooting commands & examples         |
+| **EDR / XDR**  | [Wazuh-Incident-Triage](./EDR-XDR/Wazuh-Incident-Triage)          | Detection + response workflow, triage examples     |
+|                | [Aurora-EDR-Lab](./EDR-XDR/Aurora-EDR-Lab)                        | Hands-on practice notes + screenshots              |
+| **Automation** | [Python Scripts](./Python-Automation)                             | `password_audit.py`, `log_parser.py`, README       |
+| **GRC**        | [NIST-CSF-Mapping](./GRC-Frameworks/NIST-CSF-Mapping)             | Example: map a mock company’s controls to NIST-CSF |
+|                | [ISO27001-Policy-Mockup](./GRC-Frameworks/ISO27001-Policy-Mockup) | Example policy drafts (password, access control)   |
+| **Main Docs**  | [Root README.md](./README.md)                                     | Portfolio overview + navigation                    |
