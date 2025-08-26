@@ -19,12 +19,10 @@
 | Category       | Project/Folder                                                    | Contents / Highlights                              |
 | -------------- | ----------------------------------------------------------------- | -------------------------------------------------- |
 | **Main Docs**  | [Root-README](Root-README/README.md)                              | Portfolio overview + navigation                    |
-| **SIEM**       | [Splunk-Alerting](./SIEM/Splunk-Alerting)                         | README, queries, dashboards, alert screenshots     |
-|                | [Wazuh-Detection](./SIEM/Wazuh-Detection)                         | README, config snippets, screenshots               |
+| **SIEM**       | [Splunk-Detection-Alerting](./SIEM/Splunk-Detection-Alerting)     | README, queries, dashboards, alert screenshots     |
 | **IT Support** | [AD-Troubleshooting](./IT-Support/AD-Troubleshooting)             | Steps, screenshots, notes on Active Directory      |
 |                | [Network-Diagnostics](./IT-Support/Network-Diagnostics)           | Common troubleshooting commands & examples         |
-| **EDR / XDR**  | [Wazuh-Incident-Triage](./EDR-XDR/Wazuh-Incident-Triage)          | Detection + response workflow, triage examples     |
-|                | [Aurora-EDR-Lab](./EDR-XDR/Aurora-EDR-Lab)                        | Hands-on practice notes + screenshots              |
+| **EDR / XDR**  | [Aurora-EDR-Lab](./EDR-XDR/Aurora-EDR-Lab)                        | Hands-on practice notes + screenshots              |
 | **Automation** | [Python-Scripts](./Python-Automation)                             | `README, password_audit.py`, `log_parser.py`       |
 | **GRC**        | [NIST-CSF-Mapping](./GRC-Frameworks/NIST-CSF-Mapping)             | Example: map a mock company’s controls to NIST-CSF |
 |                | [ISO27001-Policy-Mockup](./GRC-Frameworks/ISO27001-Policy-Mockup) | Example policy drafts (password, access control)   |

@@ -1,4 +1,4 @@
-## 🚀 Current Focus
+## Current Focus
 
 - Building SIEM alerting and detection use cases
 - Practicing EDR/XDR incident triage workflows
@@ -7,16 +7,16 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
-- **SIEM:** Splunk, Wazuh
-- **EDR/XDR:** Aurora, Wazuh
+- **SIEM:** Splunk
+- **EDR/XDR:** Aurora
 - **Automation:** Python, Linux CLI, Git/GitHub
 - **GRC:** NIST CSF, ISO 27001
 
 ---
 
-## 🌱 Next Steps
+## Next Steps
 
 - Expand SOC-related labs (log correlation, playbooks)
 - Add more Python automation scripts for security tasks
@@ -24,7 +24,7 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **LinkedIn:** [https://www.linkedin.com/in/03271111/]
 - **GitHub:** [https://github.com/cczar1]
