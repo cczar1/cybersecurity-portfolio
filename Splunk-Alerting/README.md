@@ -34,14 +34,6 @@ The workflow models what SOC analysts do in a professional environment when moni
 
 ---
 
-## Screenshots
-
-| Brute Force Detection Query                 | Brute Force Login Attempt Alert   |
-| ------------------------------------------- | --------------------------------- |
-| ![Detection Query](./screenshots/query.png) | ![Alert](./screenshots/alert.png) |
-
----
-
 ## Key Takeaways
 
 - Reinforced how SIEMs like Splunk are used in detection engineering
