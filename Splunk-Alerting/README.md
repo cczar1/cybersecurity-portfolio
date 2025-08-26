@@ -29,7 +29,7 @@ The workflow models what SOC analysts do in a professional environment when moni
 ## Artifacts
 
 - **Queries:** [`queries/`](./queries)
-- **Dashboards:** [`dashboards/`](./dashboards) (with screenshots)
+- **Dashboards:** [`dashboards/`](./dashboards)
 - **Alert Example:** [`alerts/`](./alerts)
 
 ---
