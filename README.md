@@ -19,7 +19,7 @@
 | Category       | Project/Folder                                                    | Contents / Highlights                              |
 | -------------- | ----------------------------------------------------------------- | -------------------------------------------------- |
 | **Main Docs**  | [Root-README](Root-README/README.md)                              | Portfolio overview + navigation                    |
-| **SIEM**       | [Splunk-Detection-Alerting](./SIEM/Splunk-Detection-Alerting)     | README, queries, dashboards, alert screenshots     |
+| **SIEM**       | [Splunk-Detection-Alerting](/Splunk-Detection-Alerting)           | README, queries, dashboards, alert screenshots     |
 | **IT Support** | [AD-Troubleshooting](./IT-Support/AD-Troubleshooting)             | Steps, screenshots, notes on Active Directory      |
 |                | [Network-Diagnostics](./IT-Support/Network-Diagnostics)           | Common troubleshooting commands & examples         |
 | **EDR / XDR**  | [Aurora-EDR-Lab](./EDR-XDR/Aurora-EDR-Lab)                        | Hands-on practice notes + screenshots              |
