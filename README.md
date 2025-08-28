@@ -16,14 +16,14 @@
 
 ## 📂 Portfolio Structure
 
-| Category       | Project/Folder                                                    | Contents / Highlights                              |
-| -------------- | ----------------------------------------------------------------- | -------------------------------------------------- |
-| **Main Docs**  | [Root-README](Root-README/README.md)                              | Portfolio overview + navigation                    |
-| **SIEM**       | [Splunk-Detection-Alerting](/Splunk-Detection-Alerting)           | README, queries, dashboards, alert screenshots     |
-| **IT Support** | [AD-Troubleshooting](./IT-Support/AD-Troubleshooting)             | Steps, screenshots, notes on Active Directory      |
-|                | [Network-Diagnostics](./IT-Support/Network-Diagnostics)           | Common troubleshooting commands & examples         |
-| **EDR / XDR**  | [Aurora-EDR-Lab](./EDR-XDR/Aurora-EDR-Lab)                        | Hands-on practice notes + screenshots              |
-| **Automation** | [Python-Scripts](./Python-Automation)                             | `README, password_audit.py`, `log_parser.py`       |
-| **GRC**        | [NIST-CSF-Mapping](./GRC-Frameworks/NIST-CSF-Mapping)             | Example: map a mock company’s controls to NIST-CSF |
-|                | [ISO27001-Policy-Mockup](./GRC-Frameworks/ISO27001-Policy-Mockup) | Example policy drafts (password, access control)   |
+| Category       | Project/Folder                                          | Contents / Highlights                          |
+| -------------- | ------------------------------------------------------- | ---------------------------------------------- |
+| **Main Docs**  | [Root-README](Root-README/README.md)                    | Portfolio overview + navigation                |
+| **SIEM**       | [Splunk-Detection-Alerting](/Splunk-Detection-Alerting) | README, queries, dashboards, alert screenshots |
+| **IT Support** | [AD-Troubleshooting](/AD-Troubleshooting)               | Steps, screenshots, notes on Active Directory  |
+|                | [Network-Diagnostics](/Network-Diagnostics)             | Common troubleshooting commands & examples     |
+| **EDR / XDR**  | [Aurora-EDR-Lab](/Aurora-EDR-Lab)                       | Hands-on practice notes + screenshots          |
+| **Automation** | [Python-Scripts](/Python-Scripts)                       | `README, password_audit.py`, `log_parser.py`   |
+| **GRC**        | [NIST-CSF-Mapping](/NIST-CSF-Mapping)                   | Mapping organizational controls to NIST-CSF    |
+|                | [ISO27001-Policy-Mockup](/ISO27001-Policy-Mockup)       | Policy drafts (password, access control)       |
 |                |
