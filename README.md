@@ -6,24 +6,28 @@
 
 ### [💼 My LinkedIn](https://www.linkedin.com/in/03271111/)
 
-<p> Experienced Contracts Administrator with a strong background in operational processes and compliance within secure, regulated environments. Currently seeking to transition into a cybersecurity role, drawing on a versatile professional foundation. </p>
+<p> Experienced Contracts Administrator with a strong foundation in operational processes and compliance within secure, regulated environments. Currently transitioning into cybersecurity, leveraging a versatile professional background and CompTIA Security+ certification. </p>
 
-<p> This background, as well as my recent CompTIA Security+ certification, complements my current study of cybersecurity frameworks such as NIST and ISO 27001. To gain practical experience, I developed a home lab which has allowed me to simulate security incidents and work with SIEM, EDR, log analysis, and threat detection tools. </p>
+<p> I am passionate about applying cybersecurity knowledge in practical settings, with a focus on building technical skills through hands-on projects in a VirtualBox home lab. This includes system hardening, secure authentication configuration, patch and package management, access control enforcement, and end-point security controls. I also perform log analysis, threat detection, and security automation, applying these skills in scenarios that reflect real-world security operations. My technical work is complemented by knowledge of the NIST Cybersecurity Framework (CSF 2.0), grounding my approach in established security standards. </p>
 
 ## Cybersecurity Portfolio
 
-<p>Welcome to my Cybersecurity Portfolio! This repository showcases projects I’ve built to develop practical skills in cybersecurity, including automation, threat analysis, and lab experiments. Each project is designed to demonstrate hands-on experience and a commitment to learning real-world security workflows.</p>
+<p>Welcome to my Cybersecurity Portfolio! This repository highlights three hands-on projects designed to demonstrate real-world cybersecurity skills: </p>
+
+- **System Security & Compliance:** Perform Linux system hardening audits and compliance checks using Lynis, with remediation and reporting.
+
+- **SIEM & Threat Detection:** Build and test alerting and detection use cases using Splunk, simulating incident triage and monitoring workflows.
+
+- **Automation & Scripting:** Develop Python scripts to automate security-related tasks, such as password auditing, log parsing, and report generation.
+
+<p>Each project reflects my commitment to practical learning, applying security frameworks, and building experience in operational cybersecurity tasks.</p>
 
 ## 📂 Portfolio Structure
 
-| Category       | Project/Folder                                          | Contents / Highlights                          |
-| -------------- | ------------------------------------------------------- | ---------------------------------------------- |
-| **Main Docs**  | [Root-README](Root-README/README.md)                    | Portfolio overview + navigation                |
-| **SIEM**       | [Splunk-Detection-Alerting](/Splunk-Detection-Alerting) | README, queries, dashboards, alert screenshots |
-| **IT Support** | [AD-Troubleshooting](/AD-Troubleshooting)               | Steps, screenshots, notes on Active Directory  |
-|                | [Network-Diagnostics](/Network-Diagnostics)             | Common troubleshooting commands & examples     |
-| **EDR / XDR**  | [Aurora-EDR-Lab](/Aurora-EDR-Lab)                       | Hands-on practice notes + screenshots          |
-| **Automation** | [Python-Scripts](/Python-Scripts)                       | `README, password_audit.py`, `log_parser.py`   |
-| **GRC**        | [NIST-CSF-Mapping](/NIST-CSF-Mapping)                   | Mapping organizational controls to NIST-CSF    |
-|                | [ISO27001-Policy-Mockup](/ISO27001-Policy-Mockup)       | Policy drafts (password, access control)       |
-|                |
+=======
+| Category | Project/Folder | Contents / Highlights |
+| -------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Main Docs** | [Root-README](Root-README/README.md) | Portfolio overview + navigation |
+| **System Security & Compliance** | [Linux-Server-Hardening-Compliance](/Linux-System-Hardening-Compliance) | README, Linux system security assessment, screenshots of before/after remediation, NIST CSF mapping |
+| **SIEM** | [Splunk-Detection-Alerting](/Splunk-Detection-Alerting) | README, queries, dashboards, alert screenshots |
+| **Automation** | [Python-Scripts](/Python-Scripts) | README, `password_audit.py`, `log_parser.py` |
