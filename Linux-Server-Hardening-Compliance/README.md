@@ -35,7 +35,7 @@ The workflow models how security professionals perform system hardening and reme
 
 ## Artifacts
 
-- **Report:** [`Linux Server Security Assessment and High-Risk Remediation Report.pdf`](/Linux-Server-Hardening-Compliance/)
+**Report:** [Linux_Server_Security_Assessment.pdf](Linux-Server-Hardening-Compliance/Linux_Server_Security_Assessment.pdf)
 
 ---
 
