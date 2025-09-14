@@ -31,6 +31,8 @@ The workflow models how security professionals perform system hardening and reme
 
 **Report Navigation Links**
 
+- [Report Introductory Findings](Report-Introductory-Findings/Report-Introductory-Findings.pdf)
+
 **Section I. Report Introductory Findings**
 
 **Section II. Remediation of High-Risk Items**
@@ -42,6 +44,8 @@ The workflow models how security professionals perform system hardening and reme
 - [USB Storage Driver Not Disabled](USB-storage-driver-not-disabled/USB-storage-driver-not-disabled.pdf)
 
 **Section III. Assessment Summary and Recommendations**
+
+- [Assessment Summary and Recommendations](Assessment-Summary-and-Recommendations/Assessment-Summary-and-Recommendations.pdf)
 
 **Full Report PDF:** <a href="Linux-Server-Security-Assessment-and-Remediation-Report.pdf" target="_blank">Linux Server Security Assessment and Remediation (PDF)</a>
 
