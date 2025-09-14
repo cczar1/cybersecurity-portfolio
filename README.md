@@ -22,12 +22,11 @@
 
 <p>Each project reflects my commitment to practical learning, applying security frameworks, and building experience in operational cybersecurity tasks.</p>
 
-## 📂 Portfolio Structure
+📂 Portfolio Structure
 
-=======
-| Category | Project/Folder | Contents / Highlights |
-| -------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| **Main Docs** | [Root-README](Root-README/README.md) | Portfolio overview + navigation |
-| **System Security & Compliance** | [Linux-Server-Hardening-Compliance](/Linux-System-Hardening-Compliance) | README, Linux system security assessment, screenshots of before/after remediation, NIST CSF mapping |
-| **SIEM** | [Splunk-Detection-Alerting](/Splunk-Detection-Alerting) | README, queries, dashboards, alert screenshots |
-| **Automation** | [Python-Scripts](/Python-Scripts) | README, `password_audit.py`, `log_parser.py` |
+| Category                     | Project/Folder                                                                                   | Contents / Highlights                                                                               |
+| ---------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| Main Docs                    | [README](Root-README/README.md)                                                                  | Portfolio overview + navigation                                                                     |
+| System Security & Compliance | [Linux Server Security Assessment, Compliance & Remediation](/Linux-Server-Hardening-Compliance) | README, Linux system security assessment, screenshots of before/after remediation, NIST CSF mapping |
+| SIEM                         | [Splunk Detection & Alerting](/Splunk-Detection-Alerting)                                        | README, queries, dashboards, alert screenshots                                                      |
+| Automation                   | [Python Scripts & Automation](/Python-Scripts)                                                   | README, `password_audit.py`, `log_parser.py`                                                        |
