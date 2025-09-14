@@ -29,11 +29,11 @@ The workflow models how security professionals perform system hardening and reme
 
 ## Artifacts
 
-**Report Navigation Links**
-
-- [Report Introductory Findings](Report-Introductory-Findings/Report-Introductory-Findings.pdf)
+**REPORT NAVIGATION LINKS**
 
 **Section I. Report Introductory Findings**
+
+- [Report Introductory Findings](Report-Introductory-Findings/Report-Introductory-Findings.pdf)
 
 **Section II. Remediation of High-Risk Items**
 
@@ -47,7 +47,9 @@ The workflow models how security professionals perform system hardening and reme
 
 - [Assessment Summary and Recommendations](Assessment-Summary-and-Recommendations/Assessment-Summary-and-Recommendations.pdf)
 
-**Full Report PDF:** <a href="Linux-Server-Security-Assessment-and-Remediation-Report.pdf" target="_blank">Linux Server Security Assessment and Remediation (PDF)</a>
+**Full Report PDF:**
+
+- <a href="Linux-Server-Security-Assessment-and-Remediation-Report.pdf" target="_blank">Linux Server Security Assessment and Remediation (PDF)</a>
 
 Note: If viewing full report PDF in Github, please allow a few moments for PDF file to load. Github will only load a few pages at a time. Select "More Pages" at the bottom of the screen when you reach the last loaded page.
 
