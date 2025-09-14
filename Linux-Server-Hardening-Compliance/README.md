@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-Performed a **gap analysis and hardening exercise** on a Linux VM to identify and remediate high-risk misconfigurations.  
-I assessed the system against security benchmarks, mapped findings to **NIST CSF 2.0**, and applied remediations to strengthen authentication, package management, bootloader security, access controls, and USB device restrictions.
+Performed a **gap analysis and hardening exercise** on a Linux VM to identify and remediate high-risk misconfigurations. I assessed the system against security benchmarks, mapped findings to **NIST CSF 2.0**, and applied remediations to strengthen authentication, package management, bootloader security, access controls, and USB device restrictions.
 
 This project gave me direct practice in:
 
@@ -22,12 +21,7 @@ The workflow models how security professionals perform system hardening and reme
 1. Conducted a baseline security assessment of a Linux VM
 2. Identified misconfigurations (e.g., weak password policies, vulnerable packages, GRUB bootloader with no password)
 3. Mapped high-risk findings to **NIST CSF 2.0** controls
-4. Applied remediations:
-   - Enabled password strength module
-   - Updated and patched vulnerable packages
-   - Configured GRUB boot password
-   - Hardened `/etc/sudoers.d` permissions
-   - Disabled USB storage driver
+4. Applied remediations
 5. Verified that remediations were effective through testing and review
 6. Documented results in a structured report with risks, controls, and remediation steps
 
@@ -35,9 +29,21 @@ The workflow models how security professionals perform system hardening and reme
 
 ## Artifacts
 
-**Report:** [Linux-Server-Security-Assessment.pdf](Linux-Server-Security-Assessment-and-Remediation-Report.pdf)
+**Report:** <a href="Linux-Server-Security-Assessment-and-Remediation-Report.pdf" target="_blank">Linux Server Security Assessment and Remediation (PDF)</a>
 
-Note: If viewing report PDF in Github, please allow a few moments for PDF file to load. Github will only load a few pages at a time. Select "More Pages" at the bottom of the screen when you reach the last loaded page.
+**Report Introductory Findings**
+
+**Remediation of High-Risk Items**
+
+1. Enabled password strength module
+2. Updated and patched vulnerable packages
+3. Configured GRUB boot password
+4. Configured `/etc/sudoers.d` permissions
+5. Disabled USB storage driver
+
+**Assessment Summary and Recommendations**
+
+Note: If viewing report PDF in Github, please allow a few moments for PDF file to load. Github will only load a few pages at a time. Select "More Pages" at the bottom of the screen when you reach the last loaded page. The clickable links for each high-risk item remediation are not operational in Github, but will work if PDF is downloaded. To jump directly to main report sections, please click on the corresponding link below:
 
 ---
 
