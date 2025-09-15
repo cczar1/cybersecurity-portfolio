@@ -14,7 +14,7 @@
 
 <p>Welcome to my Cybersecurity Portfolio! This repository highlights three hands-on projects designed to demonstrate real-world cybersecurity skills: </p>
 
-- **System Security & Compliance:** Perform Linux system hardening audits and compliance checks using Lynis, with remediation and reporting.
+- **System Security & Compliance:** Perform Linux system hardening audits and NIST CSF 2.0 compliance checks using Lynis, with remediation and reporting.
 
 - **SIEM & Threat Detection:** Build and test alerting and detection use cases using Splunk, simulating incident triage and monitoring workflows.
 
