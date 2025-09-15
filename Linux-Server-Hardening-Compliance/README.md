@@ -51,7 +51,7 @@ The workflow models how security professionals perform system hardening and reme
 
 - <a href="Linux-Server-Security-Assessment-and-Remediation-Report.pdf" target="_blank">Linux Server Security Assessment and Remediation (PDF)</a>
 
-Note: If viewing full report PDF in Github, please allow a few moments for PDF file to load. Github will only load a few pages at a time. Select "More Pages" at the bottom of the screen when you reach the last loaded page.
+Note: If viewing full report PDF in Github, please allow a few moments for PDF file to load. Github will only load a few pages at a time. Select "More Pages" (Desktop) or click "Next" (mobile) at the bottom of the screen when you reach the last loaded page.
 
 ---
 
