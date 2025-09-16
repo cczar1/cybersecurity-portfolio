@@ -53,3 +53,7 @@ Testing of the scanner with verification using Netcat (`nc`):
 ```bash
 python3 my-port-inspector.py
 ```
+
+## License
+
+This project is licensed under the MIT License.
