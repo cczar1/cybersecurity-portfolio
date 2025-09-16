@@ -25,7 +25,7 @@ This project demonstrates Python basics, networking knowledge, and safe coding p
 
 Testing of the scanner with verification using Netcat (`nc`):
 
-![myPort Inspector Functional Validation](/my-port-inspector-test.png)
+![myPort Inspector Functional Validation](my-port-inspector-test.png)
 
 ---
 
