@@ -46,9 +46,9 @@ Testing of the scanner with verification using Netcat (`nc`):
 ## How to Run
 
 1. Open a terminal in the folder containing `my-port-inspector.py`
-2. Run the script:
+2. Run the script
 3. Enter a host/IP address when prompted
-4. The scanner will display the status of each port
+4. The scanner will display the status of each common port
 
 ```bash
 python3 my-port-inspector.py
