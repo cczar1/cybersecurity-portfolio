@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-Simulated a brute-force attack by intentionally failing SSH logins on a Linux VM.  
-I then used Splunk to capture the authentication failures, queried them with SPL, and built a scheduled alert to notify me of repeated failed login attempts.
+Simulated a brute-force attack by intentionally failing SSH logins on a Linux VM. Captured authentication failures in Splunk, queried them with SPL, and built a scheduled alert notification for repeated failed login attempts.
 
 This project gave me direct practice in:
 
