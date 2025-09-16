@@ -1,7 +1,5 @@
 # Linux Server Hardening & Remediation
 
----
-
 ## Project Overview
 
 Performed a **gap analysis and hardening exercise** on a Linux VM to identify and remediate high-risk misconfigurations. I assessed the system against security benchmarks, mapped findings to **NIST CSF 2.0**, and applied remediations to strengthen authentication, package management, bootloader security, access controls, and USB device restrictions.
