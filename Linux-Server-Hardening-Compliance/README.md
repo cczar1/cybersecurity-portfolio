@@ -6,8 +6,8 @@ Performed a **gap analysis and hardening exercise** on a Linux VM to identify an
 
 This project gave me direct practice in:
 
-- Performing system security assessments
-- Mapping findings to security frameworks (**NIST CSF 2.0**)
+- Performing system security assessments (Lynis)
+- Mapping findings to security frameworks (NIST CSF 2.0)
 - Hardening Linux authentication and access controls
 - Applying secure configuration changes
 - Documenting remediation steps and verifying effectiveness
@@ -18,7 +18,7 @@ The workflow models how security professionals perform system hardening and reme
 
 ## Steps Performed
 
-1. Conducted a baseline security assessment of a Linux VM
+1. Conducted a baseline security assessment of a Linux server (VM) using **Lynis**
 2. Identified misconfigurations (e.g., weak password policies, vulnerable packages, GRUB bootloader with no password)
 3. Mapped high-risk findings to **NIST CSF 2.0** controls
 4. Applied remediations
