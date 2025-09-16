@@ -61,3 +61,7 @@ Note: If viewing full report PDF in Github, please allow a few moments for PDF f
 - Practiced mapping technical issues to **NIST CSF 2.0** controls
 - Reinforced secure configuration practices (authentication, privilege management, bootloader security, device controls)
 - Produced professional-style documentation reflecting a real audit/remediation process
+
+## License
+
+This project is licensed under the MIT License.
