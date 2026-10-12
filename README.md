@@ -2,11 +2,11 @@
 
 Welcome to my Cybersecurity Portfolio! My current focus is building practical skills for security operations while developing complementary governance and risk experience. This repository showcases hands-on cybersecurity projects spanning SOC operations, configuration management, automation, and GRC practices.
 
-**🔐 System Security & Compliance:** Perform Linux system hardening audits and NIST CSF 2.0 compliance checks using Lynis, with remediation and reporting.
+**System Security & Compliance:** Perform Linux system hardening audits and NIST CSF 2.0 compliance checks using Lynis, with remediation and reporting.
 
-**⚡ Automation & Scripting:** Develop Python scripts for security tasks, including myPort Inspector, a custom port scanning tool.
+**Automation & Scripting:** Develop Python scripts for security tasks, including myPort Inspector, a custom port scanning tool.
 
-**🔎 SIEM & Threat Detection:** Build and test alerting and detection use-cases using Splunk, simulating incident triage and monitoring workflows.
+**SIEM & Threat Detection:** Build and test alerting and detection use-cases using Splunk, simulating incident triage and monitoring workflows.
 
 📂 Portfolio Structure
 
